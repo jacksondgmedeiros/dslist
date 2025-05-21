@@ -27,7 +27,7 @@ public class GameListService {
         return listaGames.stream().map(GameListDTO::new).toList();
     }
 
-    
+
 
 
 }
